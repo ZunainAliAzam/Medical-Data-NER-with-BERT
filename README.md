@@ -91,15 +91,15 @@ This project leverages BERT for Named Entity Recognition (NER) on a medical data
    ```
 
 6. **Evaluation Metrics**
-
-| Metric                  | BERT Model |
-|-------------------------|------------|
-| **Accuracy**            | 96%        |
-| **Precision (Average)** | 96%        |
-| **Recall (Average)**    | 96%        |
-| **F1 Score (Average)**  | 96%        |
-
-7. **NER Inferences**
+   
+      | Metric                  | BERT Model |
+      |-------------------------|------------|
+      | **Accuracy**            | 96%        |
+      | **Precision (Average)** | 96%        |
+      | **Recall (Average)**    | 96%        |
+      | **F1 Score (Average)**  | 96%        |
+   
+8. **NER Inferences**
    Enter a sentence for entity recognition: Mrs. Williams attends physical therapy to improve her mobility after hip replacement surgery.
 
    ```
